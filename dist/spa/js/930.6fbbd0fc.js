@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkborough_fe"]=self["webpackChunkborough_fe"]||[]).push([[930],{6930:(e,n,u)=>{u.r(n),u.d(n,{default:()=>f});var r=u(9835);function o(e,n){return(0,r.wg)(),(0,r.iD)("p",null,"Announcements under development")}var t=u(1639);const s={},c=(0,t.Z)(s,[["render",o]]),f=c}}]);
